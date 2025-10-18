@@ -1,6 +1,6 @@
 # Midnight Echo
 
-![Midnight Echo](https://user-images.githubusercontent.com/48416569/181819190-71ae4d95-88c2-499c-8175-6d26194b7733.png "Midnight Echo")
+![Midnight Echo](https://github.com/user-attachments/assets/6a18d7dd-ae4a-427c-8395-cd47829b97a4 "Midnight Echo")
 
 ![Version](https://img.shields.io/visual-studio-marketplace/v/MahmoudMohamedRamadan.midnight-echo "version")
 ![Downloads](https://img.shields.io/visual-studio-marketplace/d/MahmoudMohamedRamadan.midnight-echo?color=orange "downloads")
