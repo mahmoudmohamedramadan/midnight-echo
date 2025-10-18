@@ -29,7 +29,7 @@ To override this (or any other) theme in your config file, please follow the gui
 
 ## Support me
 
-- [PayPal](https://www.paypal.com/paypalme/mmramadan496)
+- [PayPal](https://paypal.com/paypalme/mmramadan496)
 
 ## License
 
