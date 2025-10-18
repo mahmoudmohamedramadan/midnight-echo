@@ -2,9 +2,9 @@
 
 ![Midnight Echo](https://github.com/user-attachments/assets/6a18d7dd-ae4a-427c-8395-cd47829b97a4 "Midnight Echo")
 
-![Version](https://img.shields.io/visual-studio-marketplace/v/MahmoudMohamedRamadan.midnight-echo "version")
-![Downloads](https://img.shields.io/visual-studio-marketplace/d/MahmoudMohamedRamadan.midnight-echo?color=orange "downloads")
-![Rating](https://img.shields.io/visual-studio-marketplace/stars/MahmoudMohamedRamadan.midnight-echo "rating")
+![Version](https://img.shields.io/visual-studio-marketplace/v/MahmoudMohamedRamadan.mr-darkest-theme "Version")
+![Downloads](https://img.shields.io/visual-studio-marketplace/d/MahmoudMohamedRamadan.mr-darkest-theme?color=orange "Downloads")
+![Rating](https://img.shields.io/visual-studio-marketplace/stars/MahmoudMohamedRamadan.mr-darkest-theme "Rating")
 
 ## Installation
 
@@ -21,7 +21,7 @@
    After installation, click the **Set Color Theme** button to immediately apply the theme.
 
 5. **Rate the Theme**
-   If you love the theme, kindly give it a [**5-star rating**](https://marketplace.visualstudio.com/items?itemName=MahmoudMohamedRamadan.midnight-echo&ssr=false#review-details) 🌟🌟🌟🌟🌟 to support the creator!
+   If you love the theme, kindly give it a [**5-star rating**](https://marketplace.visualstudio.com/items?itemName=MahmoudMohamedRamadan.mr-darkest-theme&ssr=false#review-details) 🌟🌟🌟🌟🌟 to support the creator!
 
 ## Override this theme
 
