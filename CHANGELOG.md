@@ -1,6 +1,10 @@
 # Release Notes for 2.x
 
-## [Unreleased](https://github.com/mahmoudmohamedramadan/midnight-echo/compare/v2.0.0...2.x)
+## [Unreleased](https://github.com/mahmoudmohamedramadan/midnight-echo/compare/v2.0.1...2.x)
+
+## [v2.0.1](https://github.com/mahmoudmohamedramadan/midnight-echo/releases/tag/v2.0.1)
+
+- [2.x] Marketplace links have been updated for accuracy and consistency.
 
 ## [v2.0.0](https://github.com/mahmoudmohamedramadan/midnight-echo/releases/tag/v2.0.0)
 
