@@ -1,8 +1,8 @@
 {
-    "name": "mr-darkest-theme",
-    "displayName": "M.R Darkest Theme",
-    "description": "M.R Darkest Theme for VS Code",
-    "version": "1.1.4",
+    "name": "midnight-echo",
+    "displayName": "Midnight Echo",
+    "description": "A beautifully deep dark theme for Visual Studio Code.",
+    "version": "1.1.5",
     "engines": {
         "vscode": "^1.53.0"
     },
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "M.R Darkest Theme",
+                "label": "Midnight Echo",
                 "uiTheme": "vs-dark",
-                "path": "./themes/mr-darkest-theme.json"
+                "path": "./themes/midnight-echo.json"
             }
         ]
     },
@@ -28,10 +28,10 @@
     },
     "repository": {
         "type": "GitHub",
-        "url": "https://github.com/mahmoudmohamedramadan/mr-darkest-theme"
+        "url": "https://github.com/mahmoudmohamedramadan/midnight-echo"
     },
     "bugs": {
-        "url": "https://github.com/mahmoudmohamedramadan/mr-darkest-theme/issues"
+        "url": "https://github.com/mahmoudmohamedramadan/midnight-echo/issues"
     },
     "icon": "assets/logo.png",
     "galleryBanner": {
@@ -42,9 +42,7 @@
         "theme",
         "color-theme",
         "dark-theme",
-        "darkest-theme",
-        "vscode-theme",
-        "mr-darkest-theme"
+        "vscode-theme"
     ],
     "funding": [
         {

@@ -1,18 +1,18 @@
-# M.R Darkest Theme
+# Midnight Echo
 
-![M.R Darkest Theme](https://user-images.githubusercontent.com/48416569/181819190-71ae4d95-88c2-499c-8175-6d26194b7733.png "M.R Darkest Theme")
+![Midnight Echo](https://user-images.githubusercontent.com/48416569/181819190-71ae4d95-88c2-499c-8175-6d26194b7733.png "Midnight Echo")
 
-![Version](https://img.shields.io/visual-studio-marketplace/v/MahmoudMohamedRamadan.mr-darkest-theme "version")
-![Downloads](https://img.shields.io/visual-studio-marketplace/d/MahmoudMohamedRamadan.mr-darkest-theme?color=orange "downloads")
-![Rating](https://img.shields.io/visual-studio-marketplace/stars/MahmoudMohamedRamadan.mr-darkest-theme "rating")
+![Version](https://img.shields.io/visual-studio-marketplace/v/MahmoudMohamedRamadan.midnight-echo "version")
+![Downloads](https://img.shields.io/visual-studio-marketplace/d/MahmoudMohamedRamadan.midnight-echo?color=orange "downloads")
+![Rating](https://img.shields.io/visual-studio-marketplace/stars/MahmoudMohamedRamadan.midnight-echo "rating")
 
 ## Installation
 
 1. **Open the Extensions Sidebar**  
    Press `Ctrl+Shift+X` (or `Cmd+Shift+X` on macOS) to open the Extensions view in Visual Studio Code.
 
-2. **Search for "M.R Darkest Theme"**  
-   In the search bar, type *M.R Darkest Theme* to find the theme.
+2. **Search for "Midnight Echo"**  
+   In the search bar, type *Midnight Echo* to find the theme.
 
 3. **Click Install**  
    Once you see the theme in the list, click the **Install** button.
@@ -21,7 +21,7 @@
    After installation, click the **Set Color Theme** button to immediately apply the theme.
 
 5. **Rate the Theme**  
-   If you love the theme, kindly give it a [**5-star rating**](https://marketplace.visualstudio.com/items?itemName=MahmoudMohamedRamadan.mr-darkest-theme&ssr=false#review-details) 🌟🌟🌟🌟🌟 to support the creator!
+   If you love the theme, kindly give it a [**5-star rating**](https://marketplace.visualstudio.com/items?itemName=MahmoudMohamedRamadan.midnight-echo&ssr=false#review-details) 🌟🌟🌟🌟🌟 to support the creator!
 
 ## Override this theme
 
