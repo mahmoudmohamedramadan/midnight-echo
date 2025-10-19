@@ -4,14 +4,14 @@
 
 ## [v2.0.1](https://github.com/mahmoudmohamedramadan/midnight-echo/releases/tag/v2.0.1)
 
-- [2.x] Marketplace links have been updated for accuracy and consistency.
+- [2.x] Fixes broken marketplace badge links.
 
 ## [v2.0.0](https://github.com/mahmoudmohamedramadan/midnight-echo/releases/tag/v2.0.0)
 
-- [2.x] Renamed theme from **M.R Darkest Theme** → **Midnight Echo**.
-- [2.x] New logo and branding.
-- [2.x] Updated repository name and links.
-- [2.x] Improved metadata and description.
+- [2.x] Renames theme from **M.R Darkest Theme** → **Midnight Echo**.
+- [2.x] Showcases new logo and refreshed branding.
+- [2.x] Updates repository name and links.
+- [2.x] Improves metadata and description.
 
 ---
 
