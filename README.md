@@ -1,6 +1,6 @@
 # Midnight Echo
 
-![Midnight Echo](https://github.com/user-attachments/assets/6a18d7dd-ae4a-427c-8395-cd47829b97a4 "Midnight Echo")
+![Midnight Echo](https://github.com/user-attachments/assets/e49db1a4-44ce-41ff-a23e-d7fd153d90ec "Midnight Echo")
 
 ![Version](https://img.shields.io/visual-studio-marketplace/v/MahmoudMohamedRamadan.mr-darkest-theme "Version")
 ![Downloads](https://img.shields.io/visual-studio-marketplace/d/MahmoudMohamedRamadan.mr-darkest-theme?color=orange "Downloads")
