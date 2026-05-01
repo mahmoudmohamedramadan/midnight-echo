@@ -2,9 +2,9 @@
 
 ![Midnight Echo](https://github.com/user-attachments/assets/2c18723d-e9ee-401a-99c0-568204e9ab56 "Midnight Echo")
 
-![Version](https://img.shields.io/visual-studio-marketplace/v/MahmoudMohamedRamadan.mr-darkest-theme "Version")
-![Downloads](https://img.shields.io/visual-studio-marketplace/d/MahmoudMohamedRamadan.mr-darkest-theme?color=orange "Downloads")
-![Rating](https://img.shields.io/visual-studio-marketplace/stars/MahmoudMohamedRamadan.mr-darkest-theme "Rating")
+[![Version](https://img.shields.io/visual-studio-marketplace/v/MahmoudMohamedRamadan.mr-darkest-theme?label=version&color=blue)](https://marketplace.visualstudio.com/items?itemName=MahmoudMohamedRamadan.mr-darkest-theme)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/MahmoudMohamedRamadan.mr-darkest-theme?label=installs&color=green)](https://marketplace.visualstudio.com/items?itemName=MahmoudMohamedRamadan.mr-darkest-theme)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/MahmoudMohamedRamadan.mr-darkest-theme?label=rating&color=yellow)](https://marketplace.visualstudio.com/items?itemName=MahmoudMohamedRamadan.mr-darkest-theme)
 
 ## Installation
 
