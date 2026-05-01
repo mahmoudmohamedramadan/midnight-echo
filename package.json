@@ -33,7 +33,7 @@
     "bugs": {
         "url": "https://github.com/mahmoudmohamedramadan/midnight-echo/issues"
     },
-    "icon": "assets/logo.png",
+    "icon": "art/logo.png",
     "galleryBanner": {
         "color": "#101010",
         "theme": "dark"
